@@ -4,7 +4,7 @@ In this study, we assessed the predictive abilities of several machine learning 
 
 This github project contains the main report (Predicting Zeros of the Riemann Zeta Function Using Machine 
 Learning), a custom Python program that facilitated computations of Gram and co-Gram points (GramPoints.py), and the description of this algorithm (GramPoints.py Annotation). Finally, NeuralNetworks.R provides the R code for MLP and RNN
-neural network models that employed in this study. For access to the data, please visit https://drive.google.com/file/d/11uL0CyuHDXQkUsDLpb7DBCPOeiGgULua/view?usp=sharing
+neural network models that employed in this study. For access to the data, please visit: https://drive.google.com/file/d/11uL0CyuHDXQkUsDLpb7DBCPOeiGgULua/view?usp=sharing
 
 This study was completed by Jennifer Kampe and Artem Vysogorets at the Research Experience for Undergraduates program
 hosted by the San Diego State University. We extend our gratitude to our mentor, Dr. Huan Qin, and the program director, 
