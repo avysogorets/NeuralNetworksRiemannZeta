@@ -8,8 +8,9 @@ We found that in the framework of this study, Recurrent Neural Networks outperfo
 and RMSE error metrics. Predictions produced by this model are typically within 0.01 of the true target values.
 
 This github project contains the main report of this study (Predicting Zeros of the Riemann Zeta Function Using Machine 
-Learning), the description of our custom algorithm that facilitated computation of Gram and co-Gram points ( 
-predictions 
+Learning), a custom Python program that facilitated computations of Gram and co-Gram points (GramPoints.py), and the description of this algorithm (GramPoints.py Annotation). Finally, NeuralNetworks.R provides the R code for MLP and RNN
+neural network models that employed in this study.
 
-
-This project is a result of the Research Experience for Undergraduates program of the San Diego State University.
+This study was completed by Jennifer Kampe and Artem Vysogorets at the Research Experience for Undergraduates program
+hosted by the San Diego State University. We extend our gratitude to our mentor, Dr. Huan Qin, and the program director, 
+Vadim Ponomarenko. We thank San Diego State University for the provided facilities, and National Science Foundation for funding.
