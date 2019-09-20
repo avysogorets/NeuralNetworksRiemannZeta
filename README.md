@@ -1,4 +1,4 @@
-# Machine-Learning-For-Riemann-Zeta-Function
+# Machine Learning For Riemann Zeta Function
 
 In this study, we assessed the predictive abilities of several machine learning models in approximation of the non-trivial zeros of the Riemann-Zeta function. In particular, we explored the replicative and predictive accuracies of SVR, Multilayer Perceptron and Recurrent Neural Networks, and established their optimal architectures. All models were implemented in R programming language, using Keras and RSNNS packages. The input space used by our models consisted of 99,000 observations for the 50 different features, which were selected with Random Forest and mRMR input selection algorithms. In the framework of this study, Recurrent Neural Networks outperformed both SVR and MLP based on R-squared and RMSE error metrics. Predictions produced by this model are typically within 0.01 of the true target values.
 
