@@ -4,6 +4,6 @@ We compared predictive abilities of Support Vector Regression, Multilayer Percep
 
 This github project contains the paper (Predicting Zeros of the Riemann Zeta Function Using Machine 
 Learning), a custom Python program that facilitated computations of Gram and co-Gram points (GramPoints.py), and the description of this algorithm (GramPoints.py Annotation). Finally, ANNmodels.R provides the R code for the
-neural network models. For access to the data, please visit: https://drive.google.com/file/d/11uL0CyuHDXQkUsDLpb7DBCPOeiGgULua/view?usp=sharing
+neural network models.
 
 This project was completed with Jennifer Kampe and Huan Qin, PhD during San Diego State University REU 2018.
